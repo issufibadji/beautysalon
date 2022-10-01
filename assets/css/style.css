@@ -18,14 +18,14 @@
 
 :root {
     /* Colors */
-    --hue: 345;
-    --base-color: rgb(229, 90, 183);
-    --base-color-second: rgb(181, 34, 124);
+    --hue: 159;
+    --base-color: hsl(var(--hue), 36%, 57%);
+    --base-color-second: hsl(var(--hue), 65%, 88%);
     --base-color-alt: hsl(var(--hue), 100%, 45%);
     --title-color: hsl(var(--hue), 41%, 10%);
     --text-color: hsl(0, 0%, 46%);
     --text-color-light: hsl(0, 0%, 98%);
-    --body-color: rgb(238, 216, 228);
+    --body-color: #F9F9F9;
     /* Sizes */
     --header-height: 4.5rem;
     /* Fonts */
