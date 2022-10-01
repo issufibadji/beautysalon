@@ -1,4 +1,3 @@
-# beautysalon
 <h1 align="center" color=" ">
    beautysalon
 </h1>
