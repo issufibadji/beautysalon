@@ -1,6 +1,6 @@
-# lovelinessalon
+# beautysalon
 <h1 align="center" color=" ">
-   lovelinessalon
+   beautysalon
 </h1>
 
 <p align="center">
@@ -14,16 +14,16 @@
 
 <p align="center">
    
-   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/issufibadji/lovelinessalon?style=flat-square">
+   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/issufibadji/beautysalon?style=flat-square">
 
-   <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/issufibadji/lovelinessalon?style=flat-square">
+   <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/issufibadji/beautysalon?style=flat-square">
 
-   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/issufibadji/lovelinessalon?style=flat-square">
+   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/issufibadji/beautysalon?style=flat-square">
 
-   <img alt="GitHub" src="https://img.shields.io/github/license/issufibadji/lovelinessalon?style=flat-square">
+   <img alt="GitHub" src="https://img.shields.io/github/license/issufibadji/beautysalon?style=flat-square">
 </p>
 
-![goodfood](https://github.com/issufibadji/lovelinessalon/blob/master/img/preview.png)
+![goodfood](https://github.com/issufibadji/beautysalon/blob/master/img/preview.png)
 
 ## :book: Sobre
 O **goodfood**
@@ -31,7 +31,7 @@ O **goodfood**
 
 ## :cloud: Deploy
 O projeto está hospedado no Github Pages
->https://issufibadji.github.io/lovelinessalon/
+>https://issufibadji.github.io/beautysalon/
 
 ## :rocket: Tecnologias
 Este projeto foi desenvolvido utilizando as seguintes tecnologias:
@@ -48,7 +48,7 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 Para visualizar o layout do projeto crie ou acesse sua conta no [bedimcode](bedimcode.com) e [desse link](https://www.buymeacoffee.com/bedimcode/e/11212) para acessá-lo.
 
 ## :memo: Licença
-Este projeto esta sobe a licença MIT. Consulte a [LICENÇA](https://github.com/issufibadji/lovelinessalon/blob/master/LINCENSE) para obter mais informações.
+Este projeto esta sobe a licença MIT. Consulte a [LICENÇA](https://github.com/issufibadji/beautysalon/blob/master/LINCENSE) para obter mais informações.
 
 ---
 
